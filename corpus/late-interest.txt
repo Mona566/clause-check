@@ -1,0 +1,3 @@
+Source: https://www.gov.uk/late-commercial-payments-interest-debt-recovery
+
+If a commercial invoice is paid late, statutory interest and a fixed recovery sum can become due. Interest is a consequence of missing the payment term. The day interest starts is not itself the payment term. A memo may say the invoice is due in 30 days and that interest runs if it is still unpaid 14 days after that. The payment term remains 30 days. The 14 days describe the interest trigger.

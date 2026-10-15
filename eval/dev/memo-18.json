@@ -1,0 +1,8 @@
+{
+  "buyer": "Rudby Council",
+  "supplier": "Calendar Ltd",
+  "contract_date": "2024-02-29",
+  "total_amount": 2100,
+  "currency": "GBP",
+  "payment_terms_days": 30
+}

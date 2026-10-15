@@ -1,0 +1,8 @@
+{
+  "buyer": "Severn Gate Council",
+  "supplier": "Highspan Construction Ltd",
+  "contract_date": "2023-11-22",
+  "total_amount": 1250000,
+  "currency": "GBP",
+  "payment_terms_days": 30
+}

@@ -1,0 +1,3 @@
+Source: https://www.gov.uk/invoicing-and-taking-payment-from-customers
+
+An invoice should identify the supplier, the customer, the date, and the amount due, and it should say how long the customer has to pay. The amount on the invoice for the agreed work is the sum being billed. A damages figure, a retention, or a day rate used to build the price is not a second invoice total. Payment terms stated on the invoice, such as net 15 days or 30 days, are the days allowed for payment.

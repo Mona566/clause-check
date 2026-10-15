@@ -1,0 +1,3 @@
+Source: https://www.gov.uk/guidance/prompt-payment-policy
+
+The currency of a contract is the currency in which the contract sum is payable. Pounds, GBP, and the £ sign are one currency. Euro and EUR are another. Dollars and USD are another. A rejected option in a second currency, or a rough sterling equivalent written only for a budget paper, does not change the currency of the sum that was agreed. The quote for currency should be the words that state the payable sum.
