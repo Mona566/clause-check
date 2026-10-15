@@ -62,10 +62,4 @@ Logs contain `review_id`, stage, latency, model, token counts and `error_type`. 
 
 Check the bill the next day. At this size the Lambda, DynamoDB and short CloudWatch logs stay inside the always-free quotas.
 
-## What the resume can say after that
 
-Only after the Function URL answers from a phone on cellular data, CloudWatch shows the `review_id`, the holdout has been run once, and the bill is $0.00:
-
-Deployed a document-review API on AWS Lambda in eu-west-2, exposed through a Lambda Function URL (HTTPS), with source text and audit records in DynamoDB and an IAM role scoped to that table and CloudWatch Logs.
-
-The function extracts parties, dates, amounts and payment terms, rejects uncited fields with deterministic rules, and retrieves related passages with BM25 over 15 public guidance texts. Sealed holdout (n=10): field accuracy __%, evidence validity __%.
